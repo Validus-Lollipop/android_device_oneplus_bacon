@@ -20,6 +20,12 @@
 },
 {
 "remote": "gh",
+"repository": "CyanogenMod/android_device_qcom_sepolicy",
+"target_path": "device/qcom/sepolicy",
+"revision": "cm-12.0"
+},
+{
+"remote": "gh",
 "repository": "Cyanogenmod/android_frameworks_opt_connectivity",
 "target_path": "frameworks/opt/connectivity",
 "revision": "cm-11.0"
