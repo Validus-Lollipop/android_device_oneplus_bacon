@@ -32,7 +32,7 @@
 },
 {
 "remote": "gh",
-"repository": "Liquidsmooth-Devices/proprietary_vendor_oppo",
+"repository": "Liquidsmooth/proprietary_vendor_oppo",
 "target_path": "vendor/oppo",
 "revision": "lollipop"
 },
