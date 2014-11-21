@@ -32,7 +32,7 @@
 },
 {
 "remote": "gh",
-"repository": "CyanogenMod/proprietary_vendor_oppo",
+"repository": "TheMuppets/proprietary_vendor_oppo",
 "target_path": "vendor/oppo",
 "revision": "cm-12.0"
 },
