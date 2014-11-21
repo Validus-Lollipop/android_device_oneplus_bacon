@@ -2,15 +2,15 @@
 [
 {
 "remote": "gh",
-"repository": "LiquidSmooth-Devices/device_oppo_common",
+"repository": "CyanogenMod/device_oppo_common",
 "target_path": "device/oppo/common",
-"revision": "lollipop"
+"revision": "cm-12.0"
 },
 {
 "remote": "gh",
-"repository": "LiquidSmooth-devices/android_device_oppo_msm8974-common",
+"repository": "CyanogenMod/android_device_oppo_msm8974-common",
 "target_path": "device/oppo/msm8974-common",
-"revision": "lollipop"
+"revision": "cm-12.0"
 },
 {
 "remote": "gh",
@@ -32,9 +32,9 @@
 },
 {
 "remote": "gh",
-"repository": "Liquidsmooth/proprietary_vendor_oppo",
+"repository": "CyanogenMod/proprietary_vendor_oppo",
 "target_path": "vendor/oppo",
-"revision": "lollipop"
+"revision": "cm-12.0"
 },
 {
 "remote": "gh",
