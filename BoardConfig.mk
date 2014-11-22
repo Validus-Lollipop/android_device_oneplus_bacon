@@ -18,11 +18,11 @@
 -include device/oppo/msm8974-common/BoardConfigCommon.mk
 
 # Kernel
-TARGET_KERNEL_CONFIG := liquid_bacon_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_bacon_defconfig
 BOARD_KERNEL_CMDLINE := console=ttyHSL0,115200,n8 androidboot.hardware=bacon user_debug=31 msm_rtb.filter=0x3F ehci-hcd.park=3 androidboot.selinux=permissive
 
 # Enable ArchiDroid Optimizations
-USE_ARCH_OPTIMIZATIONS=true
+# USE_ARCH_OPTIMIZATIONS=true
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/oneplus/bacon/bluetooth
