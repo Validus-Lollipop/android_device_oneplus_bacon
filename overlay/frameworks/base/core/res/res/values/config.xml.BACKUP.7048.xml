@@ -109,6 +109,11 @@
     <!-- Default color for notification LED is white. -->
     <color name="config_defaultNotificationColor">#ffffffff</color>
 
+<<<<<<< HEAD
+    <!-- Does the battery LED support multiple colors? Used to decide if the user can change the colors -->
+    <bool name="config_multiColorBatteryLed">true</bool>
+    
+=======
     <!-- Does the notification LED support multiple colors?
          Used to decide if the user can change the colors -->
     <bool name="config_multiColorNotificationLed">true</bool>
@@ -116,7 +121,7 @@
     <!-- Does the battery LED support multiple colors?
          Used to decide if the user can change the colors -->
     <bool name="config_multiColorBatteryLed">true</bool>
-    
+>>>>>>> upstream/cm-12.0
 
     <!-- Indicate the device's Smart Cover coordinates.
          If none are provided, then the feature will be disabled.
